@@ -8,6 +8,7 @@ Assets
 | `assets/images/nosmoking.jpg` | Safety Emporium |
 
 References
+
 [1] KOTAKE CREATE. 2023. The Exit 8. Game [Windows]. (29 November 2023). PLAYISM, Japan. Last played 13 May 2026.
 
 [2] Safety Emporium. n.d. Zing No Smoking Within 20 Feet Signs w/Image, 2 pk, 5" h x 7" w, Vinyl Self-Adhesive. Image/Product page. Retrieved 20 May 2026 from https://www.safetyemporium.com/z-1871s

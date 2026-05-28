@@ -1,17 +1,17 @@
-Project Title: Side Quest Week 1
+## Project Title: Side Quest Week 1
 
-Setup and Interaction Instructions
+## Setup and Interaction Instructions
 
 To run the sketch locally, open `index.html` in Google Chrome. No additional setup is required.
 To play via GitHub Pages, visit the link provided on the submission page.
 
-Assets
+## Assets
 
 | File | Source |
 |------|--------|
 | `assets/images/nosmoking.jpg` | Safety Emporium |
 
-References
+## References
 
 [1] KOTAKE CREATE. 2023. The Exit 8. Game [Windows]. (29 November 2023). PLAYISM, Japan. Last played 13 May 2026.
 

@@ -9,7 +9,7 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 | File | Source |
 |------|--------|
-| `assets/images/nosmoking.jpg` | Safety Emporium |
+| `assets/images/nosmoking.jpg`[1] | Safety Emporium |
 
 ## References
 
